@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">Morse</string>
+	<string name="text">Text</string>
+	<string name="morse">Morse</string>
+	<string name="info">Info</string>
+	<string name="text_hint">Input Text</string>
+	<string name="morse_hint">Input Morse Code</string>
+	<string name="copy_content_description">Copy Morse Code</string>
+	<string name="change_content_description">Change text to morse or morse to text</string>
+	<string name="text_copy">Text Copied</string>"Invalid Text"
+	<string name="text_copy_fail">Invalid Text</string>
+	<string name="morse_copy">Morse Copied</string>
+	<string name="morse_copy_fail">Invalid Morse Code</string>
+</resources>
